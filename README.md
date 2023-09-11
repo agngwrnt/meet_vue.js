@@ -1,4 +1,4 @@
-# learning_vue.js
+# meet_vue.js
 
 ## Project setup
 ```
